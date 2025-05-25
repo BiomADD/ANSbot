@@ -3,11 +3,8 @@ Simple Discord bot that provides real-time player population information for a D
 
 Key Features:
 Real-time Player Tracking: Fetches live player data from the Celestius server's API endpoint
-Realm-specific Queries: Supports individual realm population checks for the three DAoC factions:
-- Hibernia 
-- Midgard 
-- Albion
-- Total Population: Provides overall server population across all realms
+Realm-specific Queries: Supports individual realm population checks for the three DAoC factions: Hibernia, Midgard, and Albion
+Total Population: Provides overall server population across all realms
 
 Available Commands:
 !players - Returns total number of players online across all realms
